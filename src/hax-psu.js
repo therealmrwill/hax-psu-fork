@@ -476,7 +476,7 @@ export class HaxPsu extends LitElement {
         }
         #section-3 .container count-up {
           width: unset;
-          --count-up-number-font-size: 48px;
+          --count-up-number-font-size: 16px;
         }
         .section-style-1 {
           width: 100%;
